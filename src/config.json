@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "presences": [
+            "{botName}"
+        ],
+        "idles": "online",
+        "owners": [949621923346796594]
+    },
+    "command_log": {
+        "channel_id": ""
+    }
+}
